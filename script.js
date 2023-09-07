@@ -2,7 +2,7 @@ var senhaInput = document.getElementById('senha');
 var senhaInput2 = document.getElementById('senha2');
 var senhaInput3 = document.getElementById('senha3');
 var response = "sob"
-var response2 = "torrepreso"
+var response2 = "torreprisao"
 var response3 = "HIFOMICJ"
 
  function verificarSenha ()
